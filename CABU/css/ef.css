@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.form-register{
+	width: 400px;
+	background: #FFFFFF;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: "calibri";
+	color: white;
+}
+.form-register h4 {
+	font-size: 22px;
+	margin-bottom: 20px;
+	color: black;
+}
+.controls {
+	width: 340px;
+	background: #FFFFFF;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid #6ec6d9;
+	font-family: "calibri"
+	font-size 18px;
+}
+.form-register .button {
+	width: 100%;
+	background: #6abb82;
+	border: none;
+	padding: 12px;
+	color: black;
+	margin:16px 0;
+	font-size: 16px;
+}
